@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giorgi</h1>
+<h1 align="center">Hi , I'm Giorgi Duchidze</h1>
 <h3 align="center">Business And Technology University Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gduchidze&label=Profile%20views&color=0e75b6&style=flat" alt="gduchidze" /> </p>
