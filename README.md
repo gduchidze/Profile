@@ -13,7 +13,6 @@
   <h3 align="center">Business And Technology University Student</h3>
 
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/gduchidze/BTU-Social-Network">BTU Social Network</a></li>
     <li>📫 How to reach me <a href="mailto:giorgiduchidze2004@gmail.com">giorgiduchidze2004@gmail.com</a></li>
     <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/giorgiduchidze/">LinkedIn</a></li>
   </ul>
