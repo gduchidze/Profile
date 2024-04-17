@@ -10,7 +10,7 @@
 <body>
 
   <h1 align="center">Hi, I'm Giorgi Duchidze</h1>
-  <h3 align="center">Business And Technology University Student</h3>
+  <h3 align="center">Junior Data Scientist in Credo bank and Business And Technology University Student</h3>
 
   <ul>
     <li>📫 How to reach me <a href="mailto:giorgiduchidze2004@gmail.com">giorgiduchidze2004@gmail.com</a></li>
